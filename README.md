@@ -1,7 +1,3 @@
-I am a passionate software engineer and social entrepreneur. As a software engineer with a focus on React, Node.js and JavaScript, I've built a robust portfolio including a professional coffee cupping app. I've also built custom library projects in other languages such as [Ruby](https://rubygems.org/gems/coingecko) that have been used widely by the developer community.
-
-As a social entrepreneur I have co-launched different projects in areas such as health (MomBox), sustainability (PowerToThePeople), specialty food through art ([ArtesanoSpirit](https://artesanospirit.com/)) and performing arts. Many of such ventures have been awarded in business competitions.
-
 ### Highlighted Tech Projects
 
 -   [Studio Ghibli's Fan Hub](https://studio-ghibli-fanhub.herokuapp.com/): React app with eCommerce built-in using Stripe API for payment gateway. Implemented NoSQL Firebase for serverless storage. Login with Google Login and Styled Components patterns for UI. State management through React Hooks, Redux, enhanced by Redux Reselect / Redux Persist and Redux-Saga.
