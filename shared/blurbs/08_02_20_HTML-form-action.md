@@ -43,4 +43,4 @@ Now obviously, with this example you might think this is not very useful. That i
 
 Back in HTML4 yes, nowadays with HTML5 you are not required. If you have a form tag without an action attribute then the data will be sent to its own page. 
 
-*Why would we do this?* Because with the birth of single page applications (SPA), we might want to process our form data using JavaScript or some other framework such as React / Angular. If we use Vanilla JS we often do this by adding eventListeners to listen when the form has been submitted.
+*Why would we do this?* Because with the birth of single page applications (SPA), we might want to process our form data using JavaScript or some other framework such as React / Angular. If we use Vanilla JS we often do this by adding eventListeners to listen to when the form has been submitted.
