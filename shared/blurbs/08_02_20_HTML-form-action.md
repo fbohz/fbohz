@@ -41,4 +41,4 @@ Now obviously this example you might think this is not very useful. Usually the 
 
 **Is the `action` attribute required?**
 
-Back in HTML4 yes, nowadays with HTML5 it is not. If you have a form tag without an action attribute then the data will be sent its own page. Why would we do this? Because with the birth of single page applications (SPA), we might want to process our form data using JavaScript or some other framework such as React.js. If we use Vanilla JS we often do this by adding eventListeners to when the form has been submitted.
+Back in HTML4 yes, nowadays with HTML5 it is not. If you have a form tag without an action attribute then the data will be sent its own page. Why would we do this? Because with the birth of single page applications (SPA), we might want to process our form data using JavaScript or some other framework such as React.js. If we use Vanilla JS we often do this by adding eventListeners to listen when the form has been submitted.
