@@ -39,7 +39,7 @@ Now click submit. Notice we where automatically taken to process.html page! Then
 
 Now obviously, with this example you might think this is not very useful. That is true. Usually the action attribute is used to send form contents to server pages. So for example we might use a PHP file named process.php. This process.php then will do all the magic with data, like save it to a database, or register you to your favorite event, you name it. PHP is a powerful server scripting language, often used in web development. If you ever used WordPress, probably the data being processed is done via PHP.
 
-**Am I required to use `action` attribute on HTML forms**
+**Am I required to use `action` attribute on HTML forms?**
 
 Back in HTML4 yes, nowadays with HTML5 you are not required. If you have a form tag without an action attribute then the data will be sent to its own page. 
 
