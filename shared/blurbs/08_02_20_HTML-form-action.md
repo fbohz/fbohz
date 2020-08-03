@@ -33,12 +33,12 @@ Let's now fill out the form. E.g.:
 
 ![Screen Shot 2020-08-02 at 10 18 56 PM](https://user-images.githubusercontent.com/15071636/89143137-25957900-d50f-11ea-9b41-01c6a1f539e7.png)
 
-Now click submit. Notice we where automatically taken to process.html, did you notice the URL bar? The data after the ? symbol are query parameters, and since we specified the request as GET, the data is being passed as query parameters.
+Now click submit. Notice we where automatically taken to process.html page! Then, did you notice the URL bar, what is all that extra data? The data after the `?` symbol are query parameters, and since we specified the request as GET, the data is being passed as query parameters.
 
 ![Screen Shot 2020-08-02 at 10 34 02 PM](https://user-images.githubusercontent.com/15071636/89143511-75287480-d510-11ea-89a6-8d3b872d73dd.png)
 
-Now obviously this example you might think this is not very useful. Usually the action attribute is used to send form contents to server pages. So for example we might use a PHP file named process.php. This process.php then will do all the magic with data, like save it to a database, you name it. PHP is a powerful server scripting language, often used in web development. If you ever used WordPress, probably the data being processed is done via PHP.
+Now obviously, with this example you might think this is not very useful. That is true. Usually the action attribute is used to send form contents to server pages. So for example we might use a PHP file named process.php. This process.php then will do all the magic with data, like save it to a database, or register you to your favorite event, you name it. PHP is a powerful server scripting language, often used in web development. If you ever used WordPress, probably the data being processed is done via PHP.
 
 **Is the `action` attribute required?**
 
-Back in HTML4 yes, nowadays with HTML5 it is not. If you have a form tag without an action attribute then the data will be sent its own page. Why would we do this? Because with the birth of single page applications (SPA), we might want to process our form data using JavaScript or some other framework such as React.js. If we use Vanilla JS we often do this by adding eventListeners to listen when the form has been submitted.
+Back in HTML4 yes, nowadays with HTML5 it is not. If you have a form tag without an action attribute then the data will be sent to its own page. Why would we do this? Because with the birth of single page applications (SPA), we might want to process our form data using JavaScript or some other framework such as React / Angular. If we use Vanilla JS we often do this by adding eventListeners to listen when the form has been submitted.
