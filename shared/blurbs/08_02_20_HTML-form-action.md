@@ -1,4 +1,4 @@
-# HTML Form Action
+# HTML Forms: The Action Attribute
 
 > When building forms and asking data on your site or web application, you'll often want to do something with your data, right? Here's is where the form `action` attribute comes into play.
 
@@ -29,9 +29,17 @@ Now plug in the form example above in an actual HTML file and then create anothe
 </html>
 ```
 
-Let's now fill out the form:
+Let's now fill out the form. E.g.:
 
 ![Screen Shot 2020-08-02 at 10 18 56 PM](https://user-images.githubusercontent.com/15071636/89143137-25957900-d50f-11ea-9b41-01c6a1f539e7.png)
 
+Now click submit. Notice we where automatically taken to process.html, did you notice the URL bar? The data after the ? symbol are query parameters, and since we specified the request as GET, the data is being passed as query parameters.
+
+![Screen Shot 2020-08-02 at 10 34 02 PM](https://user-images.githubusercontent.com/15071636/89143511-75287480-d510-11ea-89a6-8d3b872d73dd.png)
 
 
+Now obviously this example you might think this is not very useful. Usually the action attribute is used to send form contents to server pages. So for example we might use a PHP file named process.php. PHP is a powerful server scripting language, often used in web development. If you ever used WordPress, probably the data being processed is done via PHP.
+
+**Is the `action` attribute required?**
+
+Back in HTML4 yes, nowadays with HTML5 it is not. If you have a form tag without any attributed then the data will be sent its own page. Why you might ask. Because with the birth of single page applications (SPA), we might want to process our form data using JavaScript or some other framework such as React.js. If we use Vanilla JS we often do this by adding eventListeners to when the form has been submitted.
