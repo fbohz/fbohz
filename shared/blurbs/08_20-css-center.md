@@ -9,7 +9,7 @@ Today we'll try to center a _Susuwatari_. These [little creatures](https://en.wi
 The need for centering an image is very common. Let's say we have our soot image and we add it with the conventional `image` tag:
 
 ```html
-<img class="soot" src="soot.jpg" alt="soot!" />
+<img class="soot" src="soot.jpg" alt="soot!">
 ```
 
 **Don't Forget:** As you write your image tag have in mind that this tag cannot have any child nodes, that is why we don't close it. Although your browser might not complain if you have a closing `</img>`, any CSS applied to it might not work. So just follow convention above.
@@ -39,7 +39,7 @@ So now let's check our page any yes, our image has been centered!
 
 So what just happened?
 
-- Our `margin` attribute can accept four parameters, the first two top and bottom and the other left and right. Here we are basically saying for the browser to determine the left and right margins, which in this case the browser sets them equal and thus the image is centered.
+- Our `margin` attribute can accept four parameters, the first two top and bottom and the other left and right. Here we are basically saying to the browser to determine the left and right margins, which in this case the browser sets them equal and thus the image is centered.
 - Our `display` property can have many values. In this case we choose 'block' which basically tells the img element t
 - o take the whole width and on its own line. So when we apply the margin we ensure that it is applied to the whole image's width so that is why it is centered.
 
