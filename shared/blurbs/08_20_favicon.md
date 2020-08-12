@@ -1,6 +1,6 @@
 # HTML Favicon
 
-Have you noticed how all or 99% of your browser tabs have their own distinguishing logo on the side? Well that was the coolest thing (back in 1999) when Internet Explorer first supported it. This little image or icon is referred as the **favicon**, which stands for favorite icon. Although not required, the favicon is now pretty standard, and all website and web apps should have one for sure to distinguish themselves. 
+Have you noticed how all or 99% of your browser tabs have their own distinguishing logo on the side? Well that was the coolest thing (back in 1999) when Internet Explorer first supported it. This little image or icon is referred as the **favicon**, which stands for favorite icon. Although not required, the favicon is now pretty standard, used also for shortcuts across multiple devices. So all website and web apps should implement favicon(s) to distinguish themselves. 
 
 ## Adding a Favicon - The Traditional Way
 
@@ -34,7 +34,7 @@ We can just save our PNG image in three sizes to match the favicon (16x16), task
 
 This should make our website or app more consistent with modern standards! 
 
-## More Favicons - This is Getting Complicated
+## More Favicons - Getting More Complicated
 
 When it comes to mobile support or even larger displays, our favicon list can start expanding. Take for example the `apple-touch-icon`, which is basically the icon when you add to home screen on an iOS device. Well, if you want to optimize for iOS devices, yes you'll need an specific favicon for that. So behold, our list of favicons grows:
 
@@ -53,5 +53,5 @@ At the end it all boils down to your own needs. Feel free to experiment with wha
 
 So, if you came here to learn about how to implement a single favicon to show it on the tab and maybe a shortcut, you're wrong. Today, there are a *minion* favicons to display across all devices, shortcuts, home-screen, and yes the list keeps growing!
 
-![minion-favicons](https://media.giphy.com/media/l3HBbltOYjoNq/giphy.gif)
+![minion-favicons](https://media.giphy.com/media/10S4rk0J10AKlO/giphy.gif)
 
