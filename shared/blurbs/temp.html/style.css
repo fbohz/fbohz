@@ -1,0 +1,18 @@
+button.color {
+    /* keywords */
+    /* color: white; */
+    /* background-color: chocolate; */
+
+    /* RGB and decimal */
+    /* color: #fff;
+    background-color: rgb(210,105,30); */
+
+    /* rgb() and hsl() */
+    /* color: hsl(9, 39%, 45%); */
+
+    /* opacity */
+    color: #fff;
+    background-color: rgba(210,105,30, 0.7);
+    
+
+}
