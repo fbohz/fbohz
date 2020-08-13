@@ -6,7 +6,9 @@ While reading this article, please refer to the [accompanying repo](https://gith
 
 ## Rotating a Box 
 
-Let's go ahead and create our HTML page, let's add a box as a div and give it a class, let's name it "rotate". Now let's add some styling to it:
+Let's go ahead and create our HTML page, let's add a box as a div and give it a class (let's name it "rotate"). 
+
+Now let's add some styling to it:
 
 ```css
 div.rotate {
@@ -16,13 +18,15 @@ div.rotate {
 }
 ```
 
-Cool we have a colored box:
+Refresh. Cool, we have a colored box:
 
 ![Screen Shot 2020-08-12 at 8 09 12 PM](https://user-images.githubusercontent.com/15071636/90083411-0699a280-dcd8-11ea-8936-5a2c035896f4.png)
 
 In order to rotate our box, we need to discuss the `transform` property first. 
 
-This transform as the name implies, transforms elements. One of the functions we can apply is `rotate()`. This rotate function takes one argument specifying by an angle. If we pass a negative angle it will move counter-clockwise. Let's go ahead and apply a 35 degree rotation:
+This **transform** property as the name implies, transforms elements and one of the functions we can apply to it, is `rotate()`. 
+
+This rotate function takes one argument specifying an angle. If we pass a negative angle it will move counter-clockwise. Let's go ahead and apply a 35 degree positive rotation:
 
 ```css
 div.rotate {
@@ -37,11 +41,11 @@ We rotated our box! Tap yourself in the back.
 
 ![Screen Shot 2020-08-12 at 8 21 25 PM](https://user-images.githubusercontent.com/15071636/90083932-7a887a80-dcd9-11ea-9677-04e5859f14bd.png)
 
-**Why is this useful?**
+## Useful Applications
 
-Well besides allowing for fancy UI ideas. The rotate function represents the potential for us to do a really a basic animation! 
+Besides allowing for fancy UI ideas. The rotate function allows us to do a really cool animations! 
 
-Let's go ahead and use the `:hover` selector on our div and actually apply a cool rotation effect:
+Let's go ahead and use the `:hover` selector on our div to actually apply a cool rotation effect:
 
 ```css
 .rotate:hover {
@@ -50,6 +54,6 @@ Let's go ahead and use the `:hover` selector on our div and actually apply a coo
 }
 ```
 
-Isn't it cool? 😎
+Isn't this cool? 😎
 
 ![gif-20-31-51](https://user-images.githubusercontent.com/15071636/90084463-018a2280-dcdb-11ea-8d49-183c056b74ba.gif)
