@@ -28,7 +28,7 @@ Refresh. Cool, we have a colored box:
 
 In order to rotate our box, we need to discuss the `transform` property first. 
 
-This **transform** property as the name implies, transforms elements and one of the functions we can apply to it, is `rotate()`. 
+This **transform** property as the name implies, transforms elements and one of the functions we can apply to it, is `rotate()`. The transform property can take many other functions and there are many things we can do with transform. Rotate is just one of them.
 
 This rotate function takes one argument specifying an angle. If we pass a negative angle it will move counter-clockwise. Let's go ahead and apply a 35 degree positive rotation:
 
