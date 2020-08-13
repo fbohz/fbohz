@@ -8,6 +8,10 @@ While reading this article, please refer to the [accompanying repo](https://gith
 
 Let's go ahead and create our HTML page, let's add a box as a div and give it a class (let's name it "rotate"). 
 
+```html
+    <div class="rotate"></div>
+```
+
 Now let's add some styling to it:
 
 ```css
