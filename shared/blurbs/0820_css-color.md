@@ -39,6 +39,13 @@ Please note that there are nuances as to the specific property you'll use to add
 
 With our button element we have two options to add color. Either via the `background-color` property or the `color` property. In this case the color property changes color of the text and background-color, that of the background. Let's go ahead and select our button and then add color to our button!
 
+```css
+button.color {
+    color: white; 
+    background-color: chocolate; 
+}
+```
+
 Easy right?
 
 ![Screen Shot 2020-08-13 at 3 50 19 PM](https://user-images.githubusercontent.com/15071636/90185718-b88aaa80-dd7c-11ea-80ee-95177d88e325.png)
