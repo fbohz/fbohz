@@ -1,4 +1,4 @@
-**Title Tag**: HTML Forms: The Action Attribute
+<!-- **Title Tag**: HTML Forms: The Action Attribute
 
 **Meta Description**: Do you really know what the HTML form tag action attribute is? Is it required on all forms? Learn HTML with CareerKarma.
 
@@ -7,12 +7,16 @@
 **Target Keywords**: HTML Forms, Action Attribute.
 
 **Author**: Felipe Bohorquez
-Twitter Message: Do you really know what the #HTML form tag action attribute is? Is it required on all forms? Learn #HTML with CareerKarma.
+Twitter Message: Do you really know what the #HTML form tag action attribute is? Is it required on all forms? Learn #HTML with CareerKarma. -->
 
 ___
 
 
 <!-- 1-3 sentences per resource. Website screenshot or Logo for App -->
+
+
+
+---
 
 **[CodeSignal](https://codesignal.com/)**
 ![logo](https://codesignal.com/wp-content/uploads/2020/03/Logo_Main.svg)
@@ -41,5 +45,49 @@ Learning platform that offers several tracks to get you started. You get feedbac
 ![logo](https://coderbytestaticimages.s3.amazonaws.com/consumer-v2/nav/coderbyte_logo_digital_multi_light.png)
 
 Subscription based platform for interview prep with over 300 challenges. You can see how others, including senior developers might answer a challenge. It offers StarterKits in various languages, for you to try the platform before committing. 
+
+---
+
+## [Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
+![logo](https://d33wubrfki0l68.cloudfront.net/bbebbb195447ac7d9e8c23c015435b4e9e011e2e/edd02/_static/python-guide-logo.png)
+
+Online guide to everything Python. Whether you are novice or experienced developer, you'll find a breath of knowledge to draw from. This handbook offers installation, configuration, and best practices modules. It also gives multiple Python use cases in areas from web, command line, databases and scientific applications.
+
+## [A List Apart](https://alistapart.com/)
+
+![logo](https://alistapart.com/wp-content/uploads/2019/03/ala-logo-big.png)
+
+Well established blog focused on web standards and best practices. With over 20 years worth of content, it is also a good resource for UX ideas and conversations on latest trends.
+
+## [Machine Learning Mastery](https://machinelearningmastery.com/)
+
+![logo](https://3qeqpr26caki16dnhd19sv6by6v-wpengine.netdna-ssl.com/wp-content/uploads/2016/09/icon-150x150.png)
+
+Blog and Machine Learning community with over 1,000 tutorials and eBooks. For those that are starting, it offers tutorials to get setup and brings step-by-step guides on commonly used algorithms in machine learning.
+
+## [Mammoth Interactive](http://mammothinteractive.com/)
+
+![logo](http://mammothinteractive.com/wp-content/uploads/2016/11/Mammoth-Top-Logo.png)
+
+Online educational platform with a wide variety of web development, machine learning, data science and business courses. Some of their courses are cross-offered in other platforms such as Udemy. You can buy courses individually or subscribe to get access to all courses for a monthly fee.
+
+## [React Armory](https://reactarmory.com/)
+
+![logo](https://reactarmory.com/logo-clean-white.png)
+
+Educational website focusing on React content. It lets you use a web IDE so you can code React from your browser. For those starting up, it takes away some of the setup nuances and gets you to code React fast.
+
+## [Ruby Koans](http://rubykoans.com/)
+
+![Screen Shot 2020-08-18 at 6 09 55 PM](https://user-images.githubusercontent.com/15071636/90574817-82d03200-e17f-11ea-94f9-8c12de197d51.png)
+
+
+This website offers edge case Ruby challenges to learn the language, syntax structure and common functions and libraries. To get started, you download the koan challenges and you make your progress by running and passing included tests.
+
+## [RubyMonk](https://rubymonk.com/)
+
+![logo](https://www.rubymonk.com/assets/layouts/rubymonk-menu-logo-cde5322fe375e10c10e8e73d536562c8.png)
+
+RubyMonk offers free interactive tutorials from beginner to advanced. In each of the lessons there are inline IDEs so you can test and do practice code.
 
 ---
