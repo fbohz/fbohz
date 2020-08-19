@@ -91,3 +91,16 @@ This website offers edge case Ruby challenges to learn the language, syntax stru
 RubyMonk offers free interactive tutorials from beginner to advanced. In each of the lessons there are inline IDEs so you can test and do practice code.
 
 ---
+
+## [Scrimba](https://scrimba.com/)
+
+![logo](https://camo.githubusercontent.com/3f54426c0ae25d55e07f21b6f9775b156327d4c8/68747470733a2f2f692e706f7374696d672e63632f3032744b425477442f626c75652e706e67)
+
+Scrimba offers a wide variety of courses on web development and different frameworks. Some of their courses are free others. Their UI is clean and you can code as you watch the tutorials.
+
+## [SitePoint](https://www.sitepoint.com/)
+
+SitePoint offers a subscription-based library with a wide range of well-established tech publishers.
+
+
+---
