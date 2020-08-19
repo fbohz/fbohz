@@ -100,7 +100,51 @@ Scrimba offers a wide variety of courses on web development and different framew
 
 ## [SitePoint](https://www.sitepoint.com/)
 
-SitePoint offers a subscription-based library with a wide range of well-established tech publishers.
+![logo](https://brisbane.wordcamp.org/2015/files/2015/05/SitePoint.png?w=640)
 
+SitePoint offers a subscription-based library with a wide range of well-established tech publishers. Often they have sales on their individual textbooks as well.
+
+## [Thinkster](https://thinkster.io/)
+
+![logo](https://thinkster.io/assets/logo_white-4051c27c2127013f2cc7ac46cc81a788dfc2946c366185c78ea1aac5e8024b4c.png)
+
+Thinkster offers free courses and you can upgrade to premium courses. Their Angular fundamentals course with over 100 lessons it's very popular for beginners. 
+
+## [A Byte of Python](https://python.swaroopch.com/)
+
+![book](https://images-na.ssl-images-amazon.com/images/I/51JxNFJlDRL._SX331_BO1,204,203,200_.jpg)
+
+Free eBook good for those starting up with Python and will teach you how to use Python 3. Their simple English is beginner friendly to K-12 or higher education audiences.
+
+## [Conquering the Command Line](http://conqueringthecommandline.com/)
+
+![img](https://www.softcover.io/assets/cover_bg-a267f19fd8b824c7c0873181647cc75bb6d54a494aa1942f1e24244792c9c684.png)
+
+Learn all the most useful Linux/ Unix commands. Book is pretty robust, easy to read and free to access online.
+
+## [Git Immersion](https://gitimmersion.com/)
+
+![img](https://wikileaks.org/ciav7p1/cms/files/gitimmersion_ss.png)
+
+Git Immersion is an interactive online tutorial on all the fundamentals of Git. Clean UI and easy to follow practical exercises. A Git primer for all beginners.
+
+
+## [Hackr.io](https://hackr.io/)
+
+![img](https://hackr.io/assets/images/programming-images/logo-new.svg)
+
+With Hackr.io is a database where you can search for tutorials and courses. You can filter courses by free/paid, community upvotes and format. Clicking on a course, will take you to the course/tutorial website.
+
+## [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial/basics)
+
+![img](https://softcover.s3.amazonaws.com/636/learn_enough_command_line/images/cover-web.png)
+
+Well-known resource to master the command line to navigate Unix based systems. Book available for free read and you can upgrade to access additional features.
+
+## [UXPin](https://www.uxpin.com/)
+
+![img](https://www.uxpin.com/images/home/uxpin-dark.svg?1597403858)
+
+UXPin offers a great wireframing tool for UX development. You can interactively make wireframes and changes will be instantly viewed by other team members.
 
 ---
