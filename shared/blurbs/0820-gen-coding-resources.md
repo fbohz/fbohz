@@ -14,7 +14,68 @@ ___
 
 <!-- 1-3 sentences per resource. Website screenshot or Logo for App -->
 
+---
 
+## [Edabit](https://edabit.com/)
+
+![img](https://repository-images.githubusercontent.com/210649365/2c2cb600-e0de-11e9-9095-e655c831fd29)
+
+Edabit offers an interactive and game-like experience to learn to code. They offer multiple tutorials and challenges on a variety of popular programming languages.
+
+## [After Hours Programming](https://www.afterhoursprogramming.com/)
+
+![img](https://scontent.feyp1-1.fna.fbcdn.net/v/t1.0-9/394773_414916371922483_44427580_n.jpg?_nc_cat=108&_nc_sid=09cbfe&_nc_ohc=g55-DtzmC1IAX-somD0&_nc_ht=scontent.feyp1-1.fna&oh=a0f7d87e47da7c243e178c6ea8f83de9&oe=5F61C034)
+
+You can learn and practice web development with their free tutorials. They have some PHP lessons that are popular.
+
+## [jQuery.com](https://jquery.com/)
+
+![img](https://programarivm.com/wp-content/uploads/2012/03/jquery.png)
+
+Official library of the popular JavScript library. Learn everything about jQuery including API documentation, plugins and browser support
+
+## [Learn-JS.org](https://www.learn-js.org/)
+
+![img](https://www.learn-js.org/static/img/logos/learn-js.org.png)
+
+Free interactive tutorial for those getting started with JavaScript. It offers hundreds of exercises from beginner to more advanced concepts.
+
+## [LearnRubyOnline.org](https://www.learnrubyonline.org/)
+
+![img](https://www.learnrubyonline.org/static/img/logos/learnrubyonline.org.png)
+
+Free interactive platform for those beginning with Ruby. It gets you started on basic concepts all the way to more complex ones.
+
+## [MDN JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+![img](https://res.infoq.com/news/2017/06/mdn-web-documentation-update/en/resources/logo-600x154.png)
+
+Well-established documentation portal created by Mozilla's MDN Web Docs. A go-to resource for all things JavaScript.
+
+## [The Python Foundation](https://www.python.org/psf/)
+
+![img](https://www.python.org.co/usuarios/psf/psf-horizontal.png)
+
+Official website of the Python foundation. Stay up-to-date on latest developments on Python. Access the official documentation on latest software updates and features.
+
+
+## [VueJS.org](https://vuejs.org/)
+
+![img](https://vuejs.org/images/logo.png)
+
+Official docs and latest news for the popular JavaScript framework. You can check their open source repository and check out their getting started tutorials.
+
+## [Marksheet.io](https://marksheet.io/)
+
+![img](https://i.pinimg.com/originals/3f/a7/a3/3fa7a3f3f4eff2b730de3c584569b694.png)
+
+Free tutorials on HTML and CSS. Clean and modern UI. Good resource for beginners and those that wanna get-back-to-basics.
+
+## [Ruby on Rails Tutorial](https://www.railstutorial.org/)
+
+![img](https://softcover.s3.amazonaws.com/636/ruby_on_rails_tutorial_6th_edition/images/cover-web.png)
+
+Part of the Learn Enough series focusing on Rails. You can checkout a free sample and choose from a variety paying options.
 
 ---
 
