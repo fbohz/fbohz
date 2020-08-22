@@ -10,6 +10,8 @@
 
 **Twitter Message**: Do you know about when to use git reset? Learn everything about this life-saver #gitcommand Learn #Git with CareerKarma.
 
+**Word-Range**: 750 words
+
 ---
 
 # Git Reset To The Rescue
