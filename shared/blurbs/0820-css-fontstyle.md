@@ -63,7 +63,9 @@ For this particular font, making it cursive will slant it more, so probably we w
 
 ## Main Use of `font-style`
 
-In most cases using the normal keyword is redundant. Most cases you use the `font-style` property to make font italic to add emphasis. In order to keep our style let's make our paragraph italic.
+In most cases using the normal keyword is redundant. Most cases you use the `font-style` property to make font italic to add emphasis. 
+
+In order to add emphasis to a paragraph, let's make one italic.
 
 ```css
 p.par {
@@ -73,6 +75,9 @@ p.par {
 ```
 
 If you checkout the [Indie Flower](https://fonts.google.com/specimen/Indie+Flower?category=Sans+Serif,Display,Handwriting&sidebar.open=true&selection.family=Indie+Flower#standard-styles) font, you'll notice it only has the regular (normal) style. In this case the browser is doing the slopping effect! 
+
+![Screen Shot 2020-08-22 at 5 18 42 PM](https://user-images.githubusercontent.com/15071636/90966775-4876d580-e49c-11ea-96d6-b7ae7f1294f7.png)
+
 
 ## Conclusion
 
