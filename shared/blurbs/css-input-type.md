@@ -2,7 +2,7 @@
 
 **Meta Description**: Do you really know what the HTML form tag action attribute is? Is it required on all forms? Learn HTML with CareerKarma.
 
-**Slug**: /css-display-block/
+**Slug**: /css-shapes/
 
 **Target Keywords**: HTML Forms, Action Attribute.
 
@@ -13,7 +13,5 @@
 **Word-Range**: 500 words
 
 ---
-# CSS Display: Block
+# CSS Shapes
 
-<!-- block’ which basically tells the img element t
-o take the whole width and on its own line -->

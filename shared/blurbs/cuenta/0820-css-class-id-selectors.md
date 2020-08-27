@@ -10,6 +10,8 @@
 
 **Twitter Message:** Do you know how to uniquely identify an #HTML element? How about a group of elements? Can you apply style to one or more elements? Learn #HTML and #CSS class and ID selectors with #CareerKarma.
 
+**Words**: 750
+
 ___
 
 # ID and Class Attributes in HTML and Their CSS Selectors
