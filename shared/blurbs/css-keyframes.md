@@ -2,7 +2,7 @@
 
 **Meta Description**: Do you really know what the HTML form tag action attribute is? Is it required on all forms? Learn HTML with CareerKarma.
 
-**Slug**: /css-shapes/
+**Slug**: /css-keyframes/
 
 **Target Keywords**: HTML Forms, Action Attribute.
 
@@ -13,5 +13,5 @@
 **Word-Range**: 500 words
 
 ---
-# CSS Shapes
+# CSS Keyframes
 
