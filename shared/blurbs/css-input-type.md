@@ -12,6 +12,8 @@
 
 **Word-Range**: 500 words
 
+**STATUS**: DONE
+
 ---
 
 # CSS Input Type
@@ -69,7 +71,7 @@ The trick here is that we remove the borders and just add the specific border we
 
 Another cool styling we can apply is to our dropdowns. But there's a caveat. If we do `input[type="select"]` it would not select our dropdown. So we have to use the `select` keyword to select dropdowns.
 
-```css 
+```css
 select {
   padding: 2rem;
   font-size: 2rem;
@@ -84,16 +86,15 @@ select {
 By now you should have the hang of styling inputs. Also, it seems we already have a style pattern. Let's go ahead and add our style pattern to number and date inputs.
 
 ```css
-input[type="number"], input[type="date"] {
+input[type="number"],
+input[type="date"] {
   border: 0;
-  border-bottom: 0.3rem solid mediumspringgreen; 
+  border-bottom: 0.3rem solid mediumspringgreen;
 }
 ```
 
-With just a few strokes of CSS, and by using very easy selectors we are able to give another look to our inputs! 
+With just a few strokes of CSS, and by using very easy selectors we are able to give another look to our inputs!
 
 ![Screen Shot 2020-08-28 at 8 52 37 PM](https://user-images.githubusercontent.com/15071636/91625939-c8a3ac00-e970-11ea-8737-b0c3b7401bc2.png)
 
-This is just the start. So imagine what else you can accomplish. In fact, I left some inputs unfinished at the [Codepen](https://codepen.io/fbohz-the-decoder/pen/BaKZLmm). So go ahead and apply any style you want. You already know how to do it. Go for it! 
-
-
+This is just the start. So imagine what else you can accomplish. In fact, I left some inputs unfinished at the [Codepen](https://codepen.io/fbohz-the-decoder/pen/BaKZLmm). So go ahead and apply any style you want. You already know how to do it. Go for it!
