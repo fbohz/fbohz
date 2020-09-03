@@ -12,7 +12,10 @@
 
 **Word-Range**: 500 words
 
+**STATUS**: DONE
+
 ---
+
 # CSS Keyframes
 
 Building animations is a breeze with CSS. And the fun part is that you don't need any third party frameworks or plugins. `@keyframes` CSS rule is a tool we need under our belt to build these animations.
@@ -25,22 +28,26 @@ We define a @keyframes rule with the following syntax.
 
 ```css
 @keyframes <name> {
-    from {
+  from {
     /* start details here */
-    }
+  }
 
-    to {
+  to {
     /* end details here */
-    }
+  }
 }
 ```
+
 We can get more refined animation declarations by specifying percentages instead of keywords.
 
 ```css
 @keyframes <name> {
-  0% { }
-  50% { }
-  100% { }
+  0% {
+  }
+  50% {
+  }
+  100% {
+  }
 }
 ```
 
@@ -48,7 +55,7 @@ In order to use our newly created keyframe we need to add it as a value of the `
 
 ## Magic Ball Example
 
-Let's go ahead and make a magic ball appear and disappear. Do refer to the accompanying [Codepen](https://codepen.io/fbohz-the-decoder/pen/OJNxrvX) if you get lost at any point. 
+Let's go ahead and make a magic ball appear and disappear. Do refer to the accompanying [Codepen](https://codepen.io/fbohz-the-decoder/pen/OJNxrvX) if you get lost at any point.
 
 The first thing we need to do is define our animation. We'll name it magic-ball:
 
@@ -62,6 +69,7 @@ The first thing we need to do is define our animation. We'll name it magic-ball:
   }
 }
 ```
+
 Here basically we are changing the background color from limegreen to blueviolet. This can be applied to any element, but we'll go ahead and apply it to a circle.
 
 ```css
@@ -73,6 +81,7 @@ Here basically we are changing the background color from limegreen to blueviolet
   animation-duration: 4s;
 }
 ```
+
 Do not forget that in order for our keyframe animation to work with need to add it as a value of the `animation-name` property and set an animation duration in seconds by using `animation-duration`. So now our ball is appearing and disappearing!💥
 
 ![Sep-02-2020 22-48-04-ball](https://user-images.githubusercontent.com/15071636/92069334-ae057480-ed6e-11ea-9e22-9bffdf1c7b1b.gif)
@@ -99,7 +108,20 @@ Opacity is pretty much our transparency. We can apply this newly created animati
 ![Sep-02-2020 22-49-54-square](https://user-images.githubusercontent.com/15071636/92069332-ac3bb100-ed6e-11ea-8588-7f7d5f6e5000.gif)
 
 
-## Conclusion 
+```css
+.square {
+  width: 10rem;
+  height: 10rem;
+  background-color: greenyellow;
+  animation-name: moveIn;
+  animation-duration: 4s;
+  font-size: 3rem;
+  color: whitesmoke;
+  text-align: center;
+}
+```
+
+## Conclusion
 
 You can continue your journey on animations by reading the [CSS documentation on animations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations). Also note, we only referred to one way to refine our animations by using its duration. There are many more [animation sub-properties](https://www.freecodecamp.org/news/how-to-use-animations-in-css/) worth looking!
 
