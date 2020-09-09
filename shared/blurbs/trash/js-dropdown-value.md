@@ -12,7 +12,7 @@
 
 **Word-Range**: 500 words
 
-**STATUS**: TBD
+**STATUS**: Done
 
 ---
 
@@ -48,7 +48,7 @@ Notice how the importance of adding **values**. The values property gives us non
 
 ## Selecting and Displaying Dropdown Value with JavaScript
 
-First of all we need to select our fruits dropdown by using `getElementById` on the select tag. 
+First of all we need to select our fruits dropdown by using `getElementById` on the select tag.
 
 ```js
 const element = document.getElementById("fruits");
@@ -78,10 +78,9 @@ element.addEventListener("change", (e) => {
     document.getElementById("pick").textContent = "";
   }
 });
-
 ```
 
-With our eventListener we are listening for a change in our dropdown. Then here I show you that you can also get the value of the selected option by doing `e.target.value` which you've probably seen in another forms. 
+With our eventListener we are listening for a change in our dropdown. Then here I show you that you can also get the value of the selected option by doing `e.target.value` which you've probably seen in another forms.
 
 So now you can try to select and JavaScript is reacting to changes in our dropdown and updating our h2 accordingly!
 
@@ -89,4 +88,4 @@ So now you can try to select and JavaScript is reacting to changes in our dropdo
 
 ## Conclusion
 
-Getting dropdown values is a crucial skill as you learn web development. The values we get are important if we want to update a database, just show the selection to the user or just 'react' to DOM changes. With JavaScript we can get such values in no time. 
+Getting dropdown values is a crucial skill as you learn web development. The values we get are important if we want to update a database, just show the selection to the user or just 'react' to DOM changes. With JavaScript we can get such values in no time.
