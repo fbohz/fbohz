@@ -20,7 +20,7 @@
 
 A lot of time when writing different functions, we might want to create ranges. A range might represent data in an array or object with a beginning and end value. A lot of languages have built in methods to create ranges, for example `to_a` in Ruby:
 
-`('a'..'e').to_a   => ["a", "b", "c", "d", "e"]`
+`('a'..'e').to_a   => ["a", "b", "c", "d", "e"]`.
 
 JavaScript doesn't have a specific built-in method for this, but there are ways we can build ranges.
 
