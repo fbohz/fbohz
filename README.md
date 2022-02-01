@@ -1,3 +1,5 @@
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fbohz&show_icons=true" alt="srdjan" /></p>
+
 📫 Get in touch: 
 
 &ensp;&ensp;&ensp;[![LinkedIn](https://img.shields.io/badge/-LinkedIn-f1c40f?style=flat-square&logo=LinkedIn&logoColor=3e65cf)](https://www.linkedin.com/in/fbohz/) [![Email](https://img.shields.io/badge/-Gmail-f1c40f?style=flat-square&logo=Gmail&logoColor=c71610)](mailto:fb.dc.col@gmail.com)
